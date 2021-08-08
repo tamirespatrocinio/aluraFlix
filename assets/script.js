@@ -13,11 +13,11 @@ let linkFilmesDesenho = ['https://youtu.be/qRbjMur9Xjo', 'https://youtu.be/MZsYD
 let nomeFilmesDesenho = ['O Rei Leão', 'A Bela e a Fera', 'Toy Story', 'A Pequena Sereia', 'Aladdin', 'Hércules']
 
 
-let imgFilmesComedia = ['https://m.media-amazon.com/images/M/MV5BMjE1NzI5NTkwMF5BMl5BanBnXkFtZTYwOTA4NzY2._V1_UX182_CR0,0,182,268_AL_.jpg', 'https://m.media-amazon.com/images/M/MV5BNzc2ODI5NjAyMl5BMl5BanBnXkFtZTgwMzIyOTE4MDE@._V1_UX182_CR0,0,182,268_AL_.jpg', 'https://m.media-amazon.com/images/M/MV5BMTY3OTg2OTM3OV5BMl5BanBnXkFtZTYwNzY5OTA3._V1_UX182_CR0,0,182,268_AL_.jpg', 'https://m.media-amazon.com/images/M/MV5BMmVhZjhlZDYtMDAwZi00MDcyLTgzOTItOWNiZjY0YmE0MGE0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg', 'https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg', 'https://m.media-amazon.com/images/M/MV5BMTQ2MzQ0NTk4N15BMl5BanBnXkFtZTcwMDc2NDYzNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg']
+let imgFilmesComedia = ['https://m.media-amazon.com/images/M/MV5BMjE1NzI5NTkwMF5BMl5BanBnXkFtZTYwOTA4NzY2._V1_UX182_CR0,0,182,268_AL_.jpg', 'https://m.media-amazon.com/images/M/MV5BNzc2ODI5NjAyMl5BMl5BanBnXkFtZTgwMzIyOTE4MDE@._V1_UX182_CR0,0,182,268_AL_.jpg', 'https://m.media-amazon.com/images/M/MV5BMTY3OTg2OTM3OV5BMl5BanBnXkFtZTYwNzY5OTA3._V1_UX182_CR0,0,182,268_AL_.jpg', 'https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg', 'https://m.media-amazon.com/images/M/MV5BMTQ2MzQ0NTk4N15BMl5BanBnXkFtZTcwMDc2NDYzNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg']
 
-let nomeFilmesComedia = ['De Repente 30','Juntos e Misturados', 'As Branquelas', '10 Coisas que eu Odeio em Você', 'Esqueceram de mim', 'Amizade Colorida']
+let nomeFilmesComedia = ['De Repente 30','Juntos e Misturados', 'As Branquelas', 'Esqueceram de mim', 'Amizade Colorida']
 
-let linkFilmesComedia = ['https://youtu.be/NV7PBRBcxu0', 'https://youtu.be/mXRVi-yfSA0','https://youtu.be/aeVkbNka9HM', 'https://youtu.be/tD76OqlJRwQ','https://youtu.be/9-IaGc4H2Ng', 'https://youtu.be/y1dZgWS5jdc']
+let linkFilmesComedia = ['https://youtu.be/NV7PBRBcxu0', 'https://youtu.be/mXRVi-yfSA0','https://youtu.be/aeVkbNka9HM','https://youtu.be/9-IaGc4H2Ng', 'https://youtu.be/y1dZgWS5jdc']
 
 let catalogo = "filmes"
 
